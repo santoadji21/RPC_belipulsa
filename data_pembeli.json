@@ -1,0 +1,40 @@
+{
+  "pelanggan": [
+    {
+      "id": "085637426921",
+      "name": "Farrah",
+      "saldo": 50000,
+      "email": "fkornel0@ebay.co.uk"
+    },
+    {
+      "id": "085637426922",
+      "name": "Pip",
+      "saldo": 20000,
+      "email": "pkilvington1@virginia.edu"
+    },
+    {
+      "id": "085637426923",
+      "name": "Taite",
+      "saldo": 60000,
+      "email": "tfelce2@rediff.com"
+    },
+    {
+      "id": "085637426924",
+      "name": "Darla",
+      "saldo": 40000,
+      "email": "dcosely3@hao123.com"
+    },
+    {
+      "id": "085637426925",
+      "name": "Minnie",
+      "saldo": 5000,
+      "email": "mkarpeev4@dion.ne.jp"
+    },
+    {
+      "id": "085637426926",
+      "name": "Ingaborg",
+      "saldo": 50500,
+      "email": "iroebottom5@mozilla.org"
+    }
+  ]
+}
